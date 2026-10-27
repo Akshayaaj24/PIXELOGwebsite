@@ -4,7 +4,7 @@ Domain: https://www.pixelog.in
 Business: Pixelog Digital and IT Solutions (brand: PIXELOG)
 Address: 11/2A, Toovipuram 2nd Street, Thoothukudi - 2, Tamil Nadu, India
 Phone / WhatsApp: +91 90253 98147, +91 70107 56411
-Email: Pixelogdigitalanditsolutions@gmail.com
+Email: hello@pixelog.in
 
 > Honest note: nobody can promise the #1 spot. For "best IT company near me" Google ranks mainly by
 > (1) your Google Business Profile, (2) real reviews, (3) your website, (4) listings that match your details everywhere.

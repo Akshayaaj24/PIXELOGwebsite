@@ -37,7 +37,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-white focus:p-3">Skip to content</a>
         <JsonLd data={{
-          "@context": "https://schema.org", "@type": ["ProfessionalService", "LocalBusiness"], "@id": `${site.url}/#business`,
+          "@context": "https://schema.org", "@type": ["ProfessionalService", "LocalBusiness"], "@id": `${site.url}/#business`, sameAs: [site.instagram],
           name: site.name, alternateName: site.legalName, url: site.url, logo: `${site.url}/logo.png`, image: `${site.url}/opengraph-image`,
           description: site.description, email: site.email, telephone: site.phones.map(([, t]) => t),
           address: { "@type": "PostalAddress", streetAddress: site.street, addressLocality: site.city, addressRegion: site.region, addressCountry: site.country },
